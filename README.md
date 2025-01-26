@@ -1,7 +1,7 @@
 # Bubble-Phantom
 Global Game Jam 2025, "Bubble"
 
-![Title](mdFiles\Title.PNG)
+![Title](mdFiles/Title.PNG)
 
 ## Introduction
 
@@ -11,15 +11,15 @@ In this game, you will play as a bubble that emerges from the ocean. While engag
 
 When struck by the seagull, the bubble will pop instantly, but the impact of the popping can also deal damage to the seagull.
 
-![Tutorial-Damage](mdFiles\Tutorial-Damage.gif)
+![Tutorial-Damage](mdFiles/Tutorial-Damage.gif)
 
 The bubble can move and dodge freely, but it will become smaller and smaller as a result. A bubble that is too tiny will evaporate in the air.
 
-![Tutorial-Life](mdFiles\Tutorial-Life.gif)
+![Tutorial-Life](mdFiles/Tutorial-Life.gif)
 
 When a perfect dodge is executed, a **bubble phantom** will be generated. You can absorb a phantom to maintain your own size. When your bubble pops, if there are bubble phantoms in existence, you can control one and continue the battle.
 
-![Tutorial-Phantom](mdFiles\Tutorial-Phantom.gif)
+![Tutorial-Phantom](mdFiles/Tutorial-Phantom.gif)
 
 So, stay sharp and watch the seagulls' every move. Dodge nimbly and claim your victory!
 
@@ -39,15 +39,15 @@ Space - Dodge
 
 游戏的内容为一场Boss战，由脆弱的泡泡对战肆意横行的海鸥，泡泡在海鸥的撞击下会瞬间爆裂，但爆裂产生的冲击力也能削减海鸥的生命值。
 
-![Tutorial-Damage](mdFiles\Tutorial-Damage.gif)
+![Tutorial-Damage](mdFiles/Tutorial-Damage.gif)
 
 玩家拥有移动与闪避的能力，但代价是自身会因为行动而逐渐变小，过于微小的泡泡将会直接蒸发。
 
-![Tutorial-Life](mdFiles\Tutorial-Life.gif)
+![Tutorial-Life](mdFiles/Tutorial-Life.gif)
 
 当触发完美闪避时，玩家就可以分身产生**泡影**，玩家可以吸收泡影来维持自身的大小，而当玩家不幸殒命，也能在当前场上的泡影中复生。
 
-![Tutorial-Phantom](mdFiles\Tutorial-Phantom.gif)
+![Tutorial-Phantom](mdFiles/Tutorial-Phantom.gif)
 
 仔细观察海鸥的行动，在灵活的闪避中找到以弱胜强的机会吧！
 
@@ -61,12 +61,12 @@ Space - 闪避
 
 ## Screenshots
 
-![ScreenShot (1)](mdFiles\ScreenShot (1).jpg)
+![ScreenShot(1)](mdFiles/ScreenShot(1).jpg)
 
-![ScreenShot (2)](mdFiles\ScreenShot (2).jpg)
+![ScreenShot(2)](mdFiles/ScreenShot(2).jpg)
 
-![ScreenShot (3)](mdFiles\ScreenShot (3).jpg)
+![ScreenShot(3)](mdFiles/ScreenShot(3).jpg)
 
-![ScreenShot (4)](mdFiles\ScreenShot (4).PNG)
+![ScreenShot(4)](mdFiles/ScreenShot(4).PNG)
 
-![ScreenShot (5)](mdFiles\ScreenShot (5).PNG)
+![ScreenShot(5)](mdFiles/ScreenShot(5).PNG)
